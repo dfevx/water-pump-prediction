@@ -1,3 +1,8 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/dfevx/water-pump-prediction)
+![GitHub repo size](https://img.shields.io/github/repo-size/dfevx/water-pump-prediction)
+![License](https://img.shields.io/github/license/dfevx/water-pump-prediction)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+
 # Predicción del Estado de Bombas de Agua en Tanzania
 
 Este proyecto aborda el reto de predecir el estado operativo de bombas de agua en Tanzania (funcional, necesita reparación, no funcional), utilizando datos abiertos de DrivenData. Mejorar la eficiencia en el mantenimiento de estas bombas es crucial para garantizar el acceso al agua potable en zonas rurales.
